@@ -1,6 +1,8 @@
 # Democracy's Favorite Device
 
- This repository consists of PCB design files for a portable computer that makes it easy to participate in a democracy.
+ The Ark is a portable computer that makes it sinple to participate in a democracy. It works similar to a smart phone but can also be modded or upgraded and runs GNU/Linux.
+ 
+ If you want to be involved submit an issue or pull request.
 
 Currently powered by the Raspberry Pi Compute Module 3 Lite and The Ark PCB.
 
