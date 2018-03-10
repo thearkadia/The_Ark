@@ -1,6 +1,7 @@
 # Democracy's Favorite Device
 
- The Ark is a portable computer we're developing to make it simple to participate in a democracy. It works similar to a smart phone but can also be modded or upgraded and runs GNU/Linux.
+ The Ark is a portable computer we're developing to make it simple to participate in a Democracy. 
+ It works similar to a smart phone but can also be modded or upgraded and runs GNU/Linux.
  
 Currently looking for more software developers and we're willing to ship prototypes to developers. If you want to be involved submit an issue or pull request.
 
