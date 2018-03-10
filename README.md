@@ -3,7 +3,7 @@
  The Ark is a portable computer we're developing to make it simple to participate in a Democracy. 
  It works similar to a smart phone but can also be modded or upgraded and runs GNU/Linux.
  
-We're currently looking for more software developers and we're willing to ship prototypes to developers. If you want to be involved please submit an issue or a pull request.
+We're currently looking for more software developers. If you want to be involved please submit an issue or a pull request.
 
 Currently powered by the Raspberry Pi Compute Module 3 Lite and The Ark PCB.
 
