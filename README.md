@@ -11,7 +11,6 @@ Currently powered by the Raspberry Pi Compute Module 3 Lite and The Ark PCB runn
 https://www.raspberrypi.org/products/compute-module-3-lite/
  
 
-<img src="https://github.com/thearkadia/The_Ark/blob/master/thearkvid.gif" alt="Drawing" style="width: 50%;"/>
 
 
 
@@ -22,5 +21,6 @@ https://www.raspberrypi.org/products/compute-module-3-lite/
 
 
 
+<img src="https://github.com/thearkadia/The_Ark/blob/master/thearkvid.gif" alt="Drawing" style="width: 50%;"/>
 
 
