@@ -14,5 +14,4 @@ https://www.raspberrypi.org/products/compute-module-3-lite/
 
 <img src="https://github.com/thearkadia/The_Ark/blob/master/theark.jpg" width="25%" height="25%"><img src="https://github.com/thearkadia/The_Ark/blob/master/thearkback.JPG" width="25%" height="25%">
 
-<img src="https://github.com/thearkadia/The_Ark/blob/master/thearkvid.gif" width="25%" height="25%">
-<img src="https://github.com/thearkadia/The_Ark/blob/master/Democracyappsubmit.gif" width="25%" height="25%">
+<img src="https://github.com/thearkadia/The_Ark/blob/master/thearkvid.gif" width="25%" height="25%"><img src="https://github.com/thearkadia/The_Ark/blob/master/Democracyappsubmit.gif" width="25%" height="25%">
