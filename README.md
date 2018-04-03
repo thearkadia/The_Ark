@@ -1,4 +1,4 @@
-# Democracy's Favorite Device
+# ¿Democracy's Favorite Device?
 
 The Ark is a portable computer we're developing to make it simple to participate in a Democracy. 
  It works similar to a smart phone but can also be repaired, and/or upgraded.
