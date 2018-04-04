@@ -1,0 +1,702 @@
+EESchema Schematic File Version 2
+LIBS:power
+LIBS:device
+LIBS:transistors
+LIBS:conn
+LIBS:linear
+LIBS:regul
+LIBS:74xx
+LIBS:cmos4000
+LIBS:adc-dac
+LIBS:memory
+LIBS:xilinx
+LIBS:microcontrollers
+LIBS:dsp
+LIBS:microchip
+LIBS:analog_switches
+LIBS:motorola
+LIBS:texas
+LIBS:intel
+LIBS:audio
+LIBS:interface
+LIBS:digital-audio
+LIBS:philips
+LIBS:display
+LIBS:cypress
+LIBS:siliconi
+LIBS:opto
+LIBS:atmel
+LIBS:contrib
+LIBS:valves
+LIBS:tfp401a
+LIBS:ddr2_sodimm
+LIBS:voltage_reg
+LIBS:uSD_card
+LIBS:batt_charg
+LIBS:spdt_switch
+LIBS:test_point
+LIBS:mounting_point
+LIBS:Ark-cache
+EELAYER 25 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 5 5
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L TPS61090RSAR U6
+U 1 1 58C86E95
+P 2445 1610
+F 0 "U6" H 2295 1010 60  0000 C CNN
+F 1 "TPS61090RSAR" H 2445 2060 60  0000 C CNN
+F 2 "Pi-Library:TPS61090RSAR" H 2445 1610 60  0001 C CNN
+F 3 "" H 2445 1610 60  0001 C CNN
+	1    2445 1610
+	1    0    0    -1  
+$EndComp
+$Comp
+L MCP73871 U7
+U 1 1 58C86EEC
+P 9170 1875
+F 0 "U7" H 9020 1050 60  0000 C CNN
+F 1 "MCP73871" H 9170 2325 60  0000 C CNN
+F 2 "Pi-Library:MCP73871" H 9170 1875 60  0001 C CNN
+F 3 "" H 9170 1875 60  0001 C CNN
+	1    9170 1875
+	1    0    0    -1  
+$EndComp
+$Comp
+L L_Small L4
+U 1 1 58C86F2D
+P 1285 1310
+F 0 "L4" H 1315 1350 50  0000 L CNN
+F 1 "6.8uH" H 1315 1270 50  0000 L CNN
+F 2 "Pi-Library:ASPI-0615FS-6R8M-T2" H 1285 1310 50  0001 C CNN
+F 3 "" H 1285 1310 50  0000 C CNN
+	1    1285 1310
+	0    -1   -1   0   
+$EndComp
+$Comp
+L C_Small C25
+U 1 1 58C86F4F
+P 800 1770
+F 0 "C25" H 635 1845 50  0000 L CNN
+F 1 "10uF" H 600 1695 50  0000 L CNN
+F 2 "Capacitors_SMD:C_0805" H 800 1770 50  0001 C CNN
+F 3 "" H 800 1770 50  0000 C CNN
+	1    800  1770
+	1    0    0    -1  
+$EndComp
+$Comp
+L C_Small C26
+U 1 1 58C86F6F
+P 1035 1770
+F 0 "C26" H 1045 1840 50  0000 L CNN
+F 1 "100nF" H 1045 1690 50  0000 L CNN
+F 2 "Capacitors_SMD:C_0402" H 1035 1770 50  0001 C CNN
+F 3 "" H 1035 1770 50  0000 C CNN
+	1    1035 1770
+	1    0    0    -1  
+$EndComp
+$Comp
+L C_Small C23
+U 1 1 58C86F9E
+P 3435 1445
+F 0 "C23" H 3445 1515 50  0000 L CNN
+F 1 "2.2uF" H 3445 1365 50  0000 L CNN
+F 2 "Capacitors_SMD:C_0603" H 3435 1445 50  0001 C CNN
+F 3 "" H 3435 1445 50  0000 C CNN
+	1    3435 1445
+	1    0    0    -1  
+$EndComp
+$Comp
+L CP1_Small C24
+U 1 1 58C86FD5
+P 3860 1450
+F 0 "C24" H 3870 1520 50  0000 L CNN
+F 1 "100uF" H 3870 1370 50  0000 L CNN
+F 2 "Capacitors_Tantalum_SMD:CP_Tantalum_Case-B_EIA-3528-21_Reflow" H 3860 1450 50  0001 C CNN
+F 3 "" H 3860 1450 50  0000 C CNN
+	1    3860 1450
+	1    0    0    -1  
+$EndComp
+$Comp
+L R_Small R31
+U 1 1 58C8700F
+P 1420 1740
+F 0 "R31" H 1450 1760 50  0000 L CNN
+F 1 "1.87M" H 1450 1700 50  0000 L CNN
+F 2 "Resistors_SMD:R_0805" H 1420 1740 50  0001 C CNN
+F 3 "" H 1420 1740 50  0000 C CNN
+	1    1420 1740
+	1    0    0    -1  
+$EndComp
+$Comp
+L R_Small R32
+U 1 1 58C87049
+P 1420 2110
+F 0 "R32" H 1450 2130 50  0000 L CNN
+F 1 "340k" H 1450 2070 50  0000 L CNN
+F 2 "Resistors_SMD:R_0805" H 1420 2110 50  0001 C CNN
+F 3 "" H 1420 2110 50  0000 C CNN
+	1    1420 2110
+	1    0    0    -1  
+$EndComp
+$Comp
+L R_Small R27
+U 1 1 58C87074
+P 3025 1435
+F 0 "R27" H 3055 1455 50  0000 L CNN
+F 1 "1.87M" H 3055 1395 50  0000 L CNN
+F 2 "Resistors_SMD:R_0805" H 3025 1435 50  0001 C CNN
+F 3 "" H 3025 1435 50  0000 C CNN
+	1    3025 1435
+	1    0    0    -1  
+$EndComp
+$Comp
+L R_Small R30
+U 1 1 58C870AA
+P 3025 1715
+F 0 "R30" H 3055 1735 50  0000 L CNN
+F 1 "200k" H 3055 1675 50  0000 L CNN
+F 2 "Resistors_SMD:R_0805" H 3025 1715 50  0001 C CNN
+F 3 "" H 3025 1715 50  0000 C CNN
+	1    3025 1715
+	1    0    0    -1  
+$EndComp
+$Comp
+L R_Small R34
+U 1 1 58C870E1
+P 3685 2510
+F 0 "R34" H 3715 2530 50  0000 L CNN
+F 1 "1k" H 3715 2470 50  0000 L CNN
+F 2 "Resistors_SMD:R_0805" H 3685 2510 50  0001 C CNN
+F 3 "" H 3685 2510 50  0000 C CNN
+	1    3685 2510
+	1    0    0    -1  
+$EndComp
+$Comp
+L R_Small R25
+U 1 1 58C8711B
+P 4100 1135
+F 0 "R25" H 4130 1155 50  0000 L CNN
+F 1 "1k" H 4130 1095 50  0000 L CNN
+F 2 "Resistors_SMD:R_0805" H 4100 1135 50  0001 C CNN
+F 3 "" H 4100 1135 50  0000 C CNN
+	1    4100 1135
+	0    -1   -1   0   
+$EndComp
+$Comp
+L R_Small R28
+U 1 1 58C87158
+P 7660 1585
+F 0 "R28" H 7690 1605 50  0000 L CNN
+F 1 "1k" H 7690 1545 39  0000 L CNN
+F 2 "Resistors_SMD:R_0805" H 7660 1585 50  0001 C CNN
+F 3 "" H 7660 1585 50  0000 C CNN
+	1    7660 1585
+	1    0    0    -1  
+$EndComp
+$Comp
+L R_Small R29
+U 1 1 58C871B5
+P 8025 1585
+F 0 "R29" H 8055 1605 50  0000 L CNN
+F 1 "1k" H 8055 1545 39  0000 L CNN
+F 2 "Resistors_SMD:R_0805" H 8025 1585 50  0001 C CNN
+F 3 "" H 8025 1585 50  0000 C CNN
+	1    8025 1585
+	1    0    0    -1  
+$EndComp
+$Comp
+L R_Small R24
+U 1 1 58C871EF
+P 8350 1075
+F 0 "R24" H 8380 1095 50  0000 L CNN
+F 1 "270k" H 8380 1035 39  0000 L CNN
+F 2 "Resistors_SMD:R_0805" H 8350 1075 50  0001 C CNN
+F 3 "" H 8350 1075 50  0000 C CNN
+	1    8350 1075
+	1    0    0    -1  
+$EndComp
+$Comp
+L R_Small R26
+U 1 1 58C87233
+P 8350 1360
+F 0 "R26" H 8380 1380 50  0000 L CNN
+F 1 "100k" H 8380 1320 39  0000 L CNN
+F 2 "Resistors_SMD:R_0402" H 8350 1360 50  0001 C CNN
+F 3 "" H 8350 1360 50  0000 C CNN
+	1    8350 1360
+	1    0    0    -1  
+$EndComp
+$Comp
+L R_Small R35
+U 1 1 58C87277
+P 8445 2705
+F 0 "R35" H 8475 2725 50  0000 L CNN
+F 1 "1k" H 8475 2665 39  0000 L CNN
+F 2 "Resistors_SMD:R_0805" H 8445 2705 50  0001 C CNN
+F 3 "" H 8445 2705 50  0000 C CNN
+	1    8445 2705
+	1    0    0    -1  
+$EndComp
+$Comp
+L R_Small R36
+U 1 1 58C872BC
+P 8615 2705
+F 0 "R36" H 8645 2725 50  0000 L CNN
+F 1 "100k" H 8645 2665 39  0000 L CNN
+F 2 "Resistors_SMD:R_0402" H 8615 2705 50  0001 C CNN
+F 3 "" H 8615 2705 50  0000 C CNN
+	1    8615 2705
+	1    0    0    -1  
+$EndComp
+$Comp
+L R_Small R33
+U 1 1 58C87309
+P 9970 2290
+F 0 "R33" H 10000 2310 50  0000 L CNN
+F 1 "15k" H 10000 2250 39  0000 L CNN
+F 2 "Resistors_SMD:R_0805" H 9970 2290 50  0001 C CNN
+F 3 "" H 9970 2290 50  0000 C CNN
+	1    9970 2290
+	1    0    0    -1  
+$EndComp
+$Comp
+L C_Small C27
+U 1 1 58C8734D
+P 10310 2180
+F 0 "C27" H 10320 2250 50  0000 L CNN
+F 1 "10uF" H 10320 2100 39  0000 L CNN
+F 2 "Capacitors_SMD:C_0805" H 10310 2180 50  0001 C CNN
+F 3 "" H 10310 2180 50  0000 C CNN
+	1    10310 2180
+	1    0    0    -1  
+$EndComp
+$Comp
+L Led_Small D6
+U 1 1 58C873DF
+P 3685 2790
+F 0 "D6" H 3635 2915 50  0000 L CNN
+F 1 "Red" H 3605 2695 50  0000 L CNN
+F 2 "LEDs:LED_1206" V 3685 2790 50  0001 C CNN
+F 3 "" V 3685 2790 50  0000 C CNN
+	1    3685 2790
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Led_Small D3
+U 1 1 58C8744E
+P 4410 1135
+F 0 "D3" H 4360 1260 50  0000 L CNN
+F 1 "Blue" H 4330 1045 50  0000 L CNN
+F 2 "LEDs:LED_1206" V 4410 1135 50  0001 C CNN
+F 3 "" V 4410 1135 50  0000 C CNN
+	1    4410 1135
+	-1   0    0    1   
+$EndComp
+$Comp
+L Led_Small D4
+U 1 1 58C874B6
+P 7660 1300
+F 0 "D4" H 7610 1425 50  0000 L CNN
+F 1 "Orange" H 7520 1225 50  0000 L CNN
+F 2 "LEDs:LED_1206" V 7660 1300 50  0001 C CNN
+F 3 "" V 7660 1300 50  0000 C CNN
+	1    7660 1300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Led_Small D5
+U 1 1 58C8751C
+P 8025 1300
+F 0 "D5" H 7975 1425 50  0000 L CNN
+F 1 "Green" H 7905 1220 50  0000 L CNN
+F 2 "LEDs:LED_1206" V 8025 1300 50  0001 C CNN
+F 3 "" V 8025 1300 50  0000 C CNN
+	1    8025 1300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Battery BT1
+U 1 1 58C87650
+P 10640 2225
+F 0 "BT1" H 10740 2275 50  0000 L CNN
+F 1 "JST 2-PH" H 10740 2175 39  0000 L CNN
+F 2 "Pi-Library:JST_2_PH" V 10640 2265 50  0001 C CNN
+F 3 "" V 10640 2265 50  0000 C CNN
+	1    10640 2225
+	1    0    0    -1  
+$EndComp
+$Comp
+L DTA143Z Q1
+U 1 1 58C876E8
+P 3585 2135
+F 0 "Q1" H 3785 2210 50  0000 L CNN
+F 1 "MMUN2133LT1G" H 3785 2135 50  0000 L CNN
+F 2 "Pi-Library:MMUN2133LT1G" H 3585 2135 50  0001 L CNN
+F 3 "" H 3585 2135 50  0000 L CNN
+	1    3585 2135
+	1    0    0    1   
+$EndComp
+Text GLabel 800  1210 1    39   Input ~ 0
+VBAT
+Wire Wire Line
+	1385 1310 2045 1310
+Wire Wire Line
+	800  1210 800  1670
+Wire Wire Line
+	800  1585 2045 1585
+Connection ~ 800  1585
+Wire Wire Line
+	1035 1670 1035 1585
+Connection ~ 1035 1585
+Wire Wire Line
+	1420 1640 1420 1585
+Connection ~ 1420 1585
+Wire Wire Line
+	1420 1840 1420 2010
+Wire Wire Line
+	2045 1735 1760 1735
+Wire Wire Line
+	1760 1735 1760 1920
+Wire Wire Line
+	1760 1920 1420 1920
+Connection ~ 1420 1920
+Text GLabel 1995 1860 0    39   Input ~ 0
+GND
+Text GLabel 1995 1985 0    39   Input ~ 0
+GND
+Text GLabel 1995 2060 0    39   Input ~ 0
+GND
+Text GLabel 1420 2275 3    39   Input ~ 0
+GND
+Text GLabel 1035 1925 3    39   Input ~ 0
+GND
+Text GLabel 800  1925 3    39   Input ~ 0
+GND
+Wire Wire Line
+	1995 1860 2045 1860
+Wire Wire Line
+	1995 1985 2045 1985
+Wire Wire Line
+	1995 2060 2045 2060
+Wire Wire Line
+	800  1870 800  1925
+Wire Wire Line
+	1035 1870 1035 1925
+Wire Wire Line
+	1420 2210 1420 2275
+Wire Wire Line
+	2045 1385 1850 1385
+Wire Wire Line
+	1850 1385 1850 1310
+Connection ~ 1850 1310
+Wire Wire Line
+	1185 1310 800  1310
+Connection ~ 800  1310
+Wire Wire Line
+	2845 1310 3860 1310
+Wire Wire Line
+	3025 1310 3025 1335
+Wire Wire Line
+	3025 1535 3025 1615
+Wire Wire Line
+	3025 1585 2845 1585
+Wire Wire Line
+	2845 1385 2920 1385
+Wire Wire Line
+	2920 1310 2920 1460
+Connection ~ 2920 1310
+Wire Wire Line
+	2920 1460 2845 1460
+Connection ~ 2920 1385
+Connection ~ 3025 1585
+Text GLabel 3025 2160 3    39   Input ~ 0
+GND
+Wire Wire Line
+	3025 1815 3025 2160
+Wire Wire Line
+	2845 1910 3025 1910
+Connection ~ 3025 1910
+Wire Wire Line
+	2845 1985 3025 1985
+Connection ~ 3025 1985
+Wire Wire Line
+	2845 2060 3025 2060
+Connection ~ 3025 2060
+Wire Wire Line
+	3435 1310 3435 1345
+Connection ~ 3025 1310
+Wire Wire Line
+	3860 990  3860 1350
+Connection ~ 3435 1310
+Text GLabel 3435 1605 3    39   Input ~ 0
+GND
+Text GLabel 3860 1605 3    39   Input ~ 0
+GND
+Wire Wire Line
+	3435 1545 3435 1605
+Wire Wire Line
+	3860 1550 3860 1605
+Wire Wire Line
+	2845 1810 3240 1810
+Wire Wire Line
+	3240 1810 3240 2135
+Wire Wire Line
+	3240 2135 3335 2135
+Wire Wire Line
+	3685 2335 3685 2410
+Wire Wire Line
+	3685 2610 3685 2690
+Text GLabel 3685 1865 1    39   Input ~ 0
+VBAT
+Text GLabel 3685 2965 3    39   Input ~ 0
+GND
+Wire Wire Line
+	3685 2890 3685 2965
+Wire Wire Line
+	3685 1865 3685 1935
+Wire Wire Line
+	4000 1135 3860 1135
+Connection ~ 3860 1310
+Text GLabel 3860 740  1    39   Input ~ 0
+5V
+Connection ~ 3860 1135
+Wire Wire Line
+	4200 1135 4310 1135
+Text GLabel 4620 1225 3    39   Input ~ 0
+GND
+Wire Wire Line
+	4510 1135 4620 1135
+Wire Wire Line
+	4620 1135 4620 1225
+$Comp
+L F_Small F2
+U 1 1 58ED853A
+P 3860 890
+F 0 "F2" H 3820 950 50  0000 L CNN
+F 1 "MF-MSMF200" H 3740 830 28  0000 L CNN
+F 2 "Pi-Library:MF-MSMF200" H 3860 890 50  0001 C CNN
+F 3 "" H 3860 890 50  0000 C CNN
+	1    3860 890 
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	3860 740  3860 790 
+Text GLabel 9645 1470 1    39   Input ~ 0
+VBAT
+Wire Wire Line
+	9645 1470 9645 1650
+Wire Wire Line
+	9645 1575 9570 1575
+Wire Wire Line
+	9645 1650 9570 1650
+Connection ~ 9645 1575
+Text GLabel 8665 1450 1    39   Input ~ 0
+PWR_IN
+Text GLabel 8350 895  1    39   Input ~ 0
+PWR_IN
+Text GLabel 8025 1120 1    39   Input ~ 0
+PWR_IN
+Text GLabel 7660 1120 1    39   Input ~ 0
+PWR_IN
+Wire Wire Line
+	8665 1450 8665 1650
+Wire Wire Line
+	8665 1575 8770 1575
+Wire Wire Line
+	8665 1650 8770 1650
+Connection ~ 8665 1575
+Wire Wire Line
+	8350 1175 8350 1260
+Wire Wire Line
+	8350 895  8350 975 
+Wire Wire Line
+	8770 1725 8545 1725
+Wire Wire Line
+	8545 1725 8545 1220
+Wire Wire Line
+	8545 1220 8350 1220
+Connection ~ 8350 1220
+Text GLabel 8350 1530 3    39   Input ~ 0
+GND
+Wire Wire Line
+	8350 1460 8350 1530
+Text GLabel 8455 2125 0    39   Input ~ 0
+PWR_IN
+Wire Wire Line
+	8455 2125 8770 2125
+Wire Wire Line
+	8770 2200 8700 2200
+Wire Wire Line
+	8700 2200 8700 2125
+Connection ~ 8700 2125
+Wire Wire Line
+	8770 2275 8630 2275
+Wire Wire Line
+	8630 2275 8630 2125
+Connection ~ 8630 2125
+Wire Wire Line
+	8555 2350 8770 2350
+Wire Wire Line
+	8555 2350 8555 2125
+Connection ~ 8555 2125
+Wire Wire Line
+	8770 2550 8615 2550
+Wire Wire Line
+	8615 2550 8615 2605
+Wire Wire Line
+	8770 2475 8445 2475
+Wire Wire Line
+	8445 2475 8445 2605
+Text GLabel 8615 2880 3    39   Input ~ 0
+GND
+Text GLabel 8445 2880 3    39   Input ~ 0
+GND
+Wire Wire Line
+	8445 2880 8445 2805
+Wire Wire Line
+	8615 2880 8615 2805
+Wire Wire Line
+	7660 1400 7660 1485
+Wire Wire Line
+	8025 1400 8025 1485
+Wire Wire Line
+	7660 1120 7660 1200
+Wire Wire Line
+	8025 1120 8025 1200
+Wire Wire Line
+	8025 1685 8025 1925
+Wire Wire Line
+	8025 1925 8770 1925
+Wire Wire Line
+	7660 1685 7660 2000
+Wire Wire Line
+	7660 2000 8770 2000
+Text GLabel 9640 2400 2    39   Input ~ 0
+GND
+Text GLabel 9640 2475 2    39   Input ~ 0
+GND
+Text GLabel 9640 2550 2    39   Input ~ 0
+GND
+Wire Wire Line
+	9570 2400 9640 2400
+Wire Wire Line
+	9570 2475 9640 2475
+Wire Wire Line
+	9570 2550 9640 2550
+Text GLabel 9970 2460 3    39   Input ~ 0
+GND
+Wire Wire Line
+	9970 2390 9970 2460
+Wire Wire Line
+	9570 2125 9970 2125
+Wire Wire Line
+	9970 2125 9970 2190
+Text GLabel 10310 2350 3    39   Input ~ 0
+GND
+Wire Wire Line
+	10310 2280 10310 2350
+Wire Wire Line
+	9570 2000 10640 2000
+Wire Wire Line
+	10310 2000 10310 2080
+Wire Wire Line
+	9570 1925 9670 1925
+Wire Wire Line
+	9670 1850 9670 2000
+Connection ~ 9670 2000
+Wire Wire Line
+	9570 1850 9670 1850
+Connection ~ 9670 1925
+Text GLabel 10640 2445 3    39   Input ~ 0
+GND
+Wire Wire Line
+	10640 2375 10640 2445
+Wire Wire Line
+	10640 1920 10640 2075
+Connection ~ 10310 2000
+Text GLabel 1995 1660 0    39   Input ~ 0
+EN_PWR
+Wire Wire Line
+	1995 1660 2045 1660
+$Comp
+L SPDT_switch U8
+U 1 1 58FBDC25
+P 2075 4745
+F 0 "U8" H 2075 4995 39  0000 C CNN
+F 1 "SPDT_switch" H 2075 5070 39  0000 C CNN
+F 2 "Pi-Library:spdt_switch_MHSS1105" V 2175 4920 39  0001 C CNN
+F 3 "" V 2175 4920 39  0001 C CNN
+	1    2075 4745
+	1    0    0    -1  
+$EndComp
+Text GLabel 2075 5035 3    39   Input ~ 0
+EN_PWR
+Text GLabel 2225 5035 3    39   Input ~ 0
+VBAT
+Text GLabel 1925 5035 3    39   Input ~ 0
+GND
+Wire Wire Line
+	1925 4945 1925 5035
+Wire Wire Line
+	2075 4945 2075 5035
+Wire Wire Line
+	2225 4945 2225 5035
+Text Notes 2205 760  0    39   ~ 0
+Voltage Booster
+Text Notes 8855 785  0    39   ~ 0
+LiPo Battery Charging
+Text Notes 1875 4180 0    39   ~ 0
+Power Switch
+$Comp
+L Test_Point PP6
+U 1 1 59029A5F
+P 10640 1845
+F 0 "PP6" H 10715 1845 28  0000 C CNN
+F 1 "Test_Point" H 10640 1970 60  0001 C CNN
+F 2 "Pi-Library:Test_Point" H 10640 1845 60  0001 C CNN
+F 3 "" H 10640 1845 60  0001 C CNN
+	1    10640 1845
+	1    0    0    -1  
+$EndComp
+$Comp
+L Test_Point PP5
+U 1 1 59029AC3
+P 4030 770
+F 0 "PP5" H 4105 770 28  0000 C CNN
+F 1 "Test_Point" H 4030 895 60  0001 C CNN
+F 2 "Pi-Library:Test_Point" H 4030 770 60  0001 C CNN
+F 3 "" H 4030 770 60  0001 C CNN
+	1    4030 770 
+	0    1    1    0   
+$EndComp
+Connection ~ 10640 2000
+Wire Wire Line
+	3955 770  3860 770 
+Connection ~ 3860 770 
+$Comp
+L Test_Point PP7
+U 1 1 5909240A
+P 10845 2410
+F 0 "PP7" H 10920 2410 28  0000 C CNN
+F 1 "Test_Point" H 10845 2535 60  0001 C CNN
+F 2 "Pi-Library:Test_Point" H 10845 2410 60  0001 C CNN
+F 3 "" H 10845 2410 60  0001 C CNN
+	1    10845 2410
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	10770 2410 10640 2410
+Connection ~ 10640 2410
+$EndSCHEMATC
