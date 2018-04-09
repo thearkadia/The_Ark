@@ -21,5 +21,6 @@ The Ark is a portable computer we're developing to make it simple to participate
 <p align="center">
   <img src="https://github.com/thearkadia/The_Ark/blob/master/Media/vicproject.jpg" width="75%" height="75%"/>
 </p>
- <a href="mailto:thearkadia@protonmail.com"></center>
- <p>make with us</a> 
+ <p align="center">
+  <a href="mailto:thearkadia@protonmail.com"></center>
+make with us</a> </p>
