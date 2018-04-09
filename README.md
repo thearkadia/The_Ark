@@ -6,7 +6,7 @@ The Ark is a portable computer we're developing to make it simple to participate
 
  If you want to be involved  submit an [idea\issue](https://github.com/thearkadia/The_Ark/issues), a [pull request](https://github.com/thearkadia/The_Ark/pulls), or [sign up for the newsletter](https://thearkadia.com/pages/newsletter).
 
-(powered by the [Raspberry Pi Compute Module 3L](https://www.raspberrypi.org/products/compute-module-3-lite/))
+(powered by the [Raspberry Pi Compute Module](https://www.raspberrypi.org/products/compute-module-3-lite/))
 
 
  
