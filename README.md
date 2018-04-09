@@ -1,6 +1,7 @@
 # ¿Democracy's Favorite Device?
 
 The Ark is a portable computer we're developing to make it simple to participate in a Democracy. 
+ 
  You can upgrade, mod, or repair it however you please since it uses open-source software and open-source hardware.
 
 
