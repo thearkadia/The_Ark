@@ -18,6 +18,6 @@ The Ark is a portable computer we're developing to make it simple to participate
 (GIFs testing the pocket-home fork and a mockup of our democracy app)
 
 
-<img src="https://github.com/thearkadia/The_Ark/blob/master/Media/vicproject.jpg" width="50%" height="50%"><img>
-<a href="mailto:thearkadia@protonmail.com">
+<center><img src="https://github.com/thearkadia/The_Ark/blob/master/Media/vicproject.jpg" width="75%" height="75%"><img>
+ <a href="mailto:thearkadia@protonmail.com"></center>
  <p>make with us</a> 
