@@ -23,4 +23,4 @@ The Ark is a portable computer we're developing to make it simple to participate
 </p>
  <p align="center">
   <a href="mailto:thearkadia@protonmail.com"></center>
-make with us</a> </p>
+email</a> </p>
