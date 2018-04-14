@@ -25,4 +25,4 @@ The Ark is a portable computer we're developing to make it simple to participate
 </p>
  <p align="center">
   <a href="mailto:thearkadia@protonmail.com"></center>
-email us</a> <a href="https://github.com/thearkadia/The_Ark/issues"></center> Subscribe to Newsletter </p>
+email us</a> <p></p> <a href="https://github.com/thearkadia/The_Ark/issues"></center> Subscribe to Newsletter </p>
