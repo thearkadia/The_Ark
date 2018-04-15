@@ -11,7 +11,7 @@ The Ark is a portable computer we're developing to make it simple to participate
 
  
 
-<img src="https://github.com/thearkadia/The_Ark/blob/master/Media/thearkback.JPG" width="50%" height="50%"><img src="https://github.com/thearkadia/The_Ark/blob/master/Media/theark.jpg" width="50%" height="50%">
+img src="https://github.com/thearkadia/The_Ark/blob/master/Media/theark.jpg" width="50%" height="50%"><img src="https://github.com/thearkadia/The_Ark/blob/master/Media/thearkback.JPG" width="50%" height="50%"><
 
 <p align="center">
  (GIFs testing the pocket-home fork and a mockup of our democracy app)</p>
