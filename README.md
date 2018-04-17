@@ -1,7 +1,7 @@
 # ¿Democracy's Favorite Device?
 
 The Ark is a portable computer we're developing to make it simple to participate in a Democracy. 
-      You can upgrade, mod, or repair it however you please since it uses open-source software and open-source hardware.
+      You can upgrade, mod, or repair it however you please since it uses open-source software and the hardware can be modded.
 
 
  If you want to be involved  submit an [idea\issue](https://github.com/thearkadia/The_Ark/issues), a [pull request](https://github.com/thearkadia/The_Ark/pulls), or [sign up for the newsletter](https://thearkadia.com/pages/newsletter).
