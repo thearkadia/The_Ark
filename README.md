@@ -28,6 +28,6 @@ email us</a> </p>
 <p align="center"> <a href="https://instagram.com/thearkadia "> follow our art </center> </p>
 
 <p align="center"> <a href="https://thearkadia.com/pages/newsletter"> Subscribe to Newsletter</center> </p>
-
+<p>
 <center>It has to start somewhere. It has to start sometime. What better place than here? what better time than now?</center> </p>
 
