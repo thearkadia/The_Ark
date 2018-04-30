@@ -30,11 +30,10 @@ email us</a> </p>
 <p align="center"> <a href="https://thearkadia.com/pages/newsletter"> Subscribe to Newsletter</center> </p></a>
 <p>
       </p>
-<p>
     <center>  It has to start somewhere.
 It has to start sometime.
-         </center> 
-<p>
+      </center> 
 
-<center> What better place than here? What better time than now?
-      </center>
+
+
+<center> What better place than here? What better time than now? </center>
