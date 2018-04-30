@@ -31,9 +31,9 @@ email us</a> </p>
 <p>
       </p>
     
-<center>  It has to start somewhere. It has to start sometime.
+<p align="center">  It has to start somewhere. It has to start sometime.
       </center> 
 
 <p> </p>
 
-<center> What better place than here? What better time than now? </center>
+<p align="center"> What better place than here? What better time than now? </center>
