@@ -30,8 +30,8 @@ email us</a> </p>
 <p align="center"> <a href="https://thearkadia.com/pages/newsletter"> Subscribe to Newsletter</center> </p></a>
 <p>
       </p>
-    <center>  It has to start somewhere.
-It has to start sometime.
+    
+<center>  It has to start somewhere. It has to start sometime.
       </center> 
 
 <p> </p>
