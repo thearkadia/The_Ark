@@ -27,9 +27,9 @@ email us</a> </p>
 
 <p align="center"> <a href="https://instagram.com/thearkadia "> follow our art </center> </p>
 
-<p align="center"> <a href="https://thearkadia.com/pages/newsletter"> Subscribe to Newsletter</center> </p>
+<p align="center"> <a href="https://thearkadia.com/pages/newsletter"> Subscribe to Newsletter</center> </p></a>
 <p>
       </p>
 <p>
-      
+      It
 
