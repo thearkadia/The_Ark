@@ -33,6 +33,8 @@ email us</a> </p>
 <p>
     <center>  It has to start somewhere.
 It has to start sometime.
-         </center> <p>
-      <center> What better place than here? What better time than now?
+         </center> 
+<p>
+
+<center> What better place than here? What better time than now?
       </center>
