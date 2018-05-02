@@ -14,7 +14,6 @@ The Ark is a portable computer we're developing to make it simple to participate
 <img src="https://github.com/thearkadia/The_Ark/blob/master/Media/theark.jpg" width="50%" height="50%"><img src="https://github.com/thearkadia/The_Ark/blob/master/Media/thearkback.JPG" width="50%" height="50%">
 
 <p align="center">
-      
 <img src="https://github.com/thearkadia/The_Ark/blob/master/Media/sketchpngs/Posts.png" width="25%" height="10%"><img src="https://github.com/thearkadia/The_Ark/blob/master/Media/sketchpngs/Profile%20Posts.png" width="25%" height="10%">
 <img src="https://github.com/thearkadia/The_Ark/blob/master/Media/sketchpngs/Profile%20Donations.png" width="25%" height="10%">     </p>
 
