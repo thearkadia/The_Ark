@@ -1,4 +1,4 @@
-# ¿Democracy's Favorite Device?
+# The Ark - ¿Democracy's Favorite Device?
 
 The Ark is a portable computer we're developing to make it simple to participate in a Democracy. It is powered by the [Raspberry Pi Compute Module](https://www.raspberrypi.org/products/compute-module-3-lite/) runs a modified version of Raspbian OS and a forked version of Pocket-Home for the mobile UI.
 
