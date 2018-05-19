@@ -1,6 +1,6 @@
 # The Ark - ¿Democracy's Favorite Device?
 
-The Ark is a portable computer that can be upgraded, modded, or repaired by the user since it uses open-source software, the pcb files are available, and the parts can be purchased individually. It is powered by the [Raspberry Pi Compute Module](https://www.raspberrypi.org/products/compute-module-3-lite/), runs a modified version of Raspbian OS, and a forked version of Pocket-Home for the mobile UI.
+The Ark is a portable computer that can be upgraded, modded, or repaired by the user since it uses open-source software, the pcb files are available, and the parts can be purchased individually. It is powered by the [Raspberry Pi Compute Module](https://www.raspberrypi.org/products/compute-module-3-lite/), runs a modified version of Raspbian OS, and uses a forked version of Pocket-Home for the mobile UI.
 
 
  If you want to be involved  submit an [idea\issue](https://github.com/thearkadia/The_Ark/issues), a [pull request](https://github.com/thearkadia/The_Ark/pulls), or [sign up for the newsletter](https://thearkadia.com/pages/newsletter).
