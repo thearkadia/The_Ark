@@ -12,6 +12,7 @@ The Ark is a portable computer that can be upgraded, modded, or repaired by the 
 
 <img src="https://github.com/thearkadia/The_Ark/blob/master/Media/theark.jpg" width="50%" height="50%"><img src="https://github.com/thearkadia/The_Ark/blob/master/Media/thearkback.JPG" width="50%" height="50%">
 
+# Simplifying Democracy
 One of the goals of The Ark is to simplify the process of participating in a democracy for citizens, journalists, and politicians in a safe and transparent way. To simplify participating in a Democracy we will include open source applications that allow citizens to easily track the voting history of their representative. An application for citizens to simplify the process of boycotting companies they don't want to support by finding what products the company owns or has a stake in and be able to find alternatives to the product\service they are looking to purchase. An application for journalists to publish articles on a peer to peer network making it very hard to be censored and an application for journalists and charities to easily recieve direct donations from supporters similar to how [Patreon](https://www.patreon.com) works with the option of accepting Cryptocurrencies as well. 
 
 (images below are mockups of the applications we will develop. No companies, charities, or journalists will be in the boycott/support list by default) 
