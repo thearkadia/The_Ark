@@ -10,7 +10,7 @@ The Ark is a portable computer that can be upgraded, modded, or repaired by the 
 
  
 
-<img src="https://github.com/thearkadia/The_Ark/blob/master/Media/theark.jpg" width="50%" height="50%"><img src="https://github.com/thearkadia/The_Ark/blob/master/Media/thearkback.JPG" width="50%" height="50%">
+<img src="https://github.com/thearkadia/The_Ark/blob/master/Media/theark-front.jpg" width="50%" height="50%"><img src="https://github.com/thearkadia/The_Ark/blob/master/Media/theark-back.JPG" width="50%" height="50%">
 
 # Simplifying Democracy
 One of the goals of The Ark is to simplify the process of participating in a democracy for citizens, journalists, and politicians in a safe and transparent way. To simplify participating in a Democracy we will develop open source applications that focus on different key aspects of a Democracy. 
