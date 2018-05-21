@@ -29,7 +29,8 @@ An open source application to simplify the process of boycotting companies by ea
 <img src="https://github.com/thearkadia/The_Ark/blob/master/Media/sketchpngs/Boycott%20List.png" width="25%" height="10%">
 <img src="https://github.com/thearkadia/The_Ark/blob/master/Media/sketchpngs/Nestle%20Alternative%20Hersheys.png" width="25%" height="10%">     </p>
 
-An application for journalists and charities to easily recieve direct donations from supporters similar to how [Patreon](https://www.patreon.com) works with the option of accepting Cryptocurrencies as well. 
+An application for journalists and charities to easily recieve direct donations from supporters similar to how [Patreon](https://www.patreon.com) works with the option of accepting Cryptocurrencies as well. An application for journalists to publish articles on a peer to peer network making it very hard to be censored and an application to keep track of important dates.
+
 
 
 <p align="center">
@@ -40,8 +41,6 @@ An application for journalists and charities to easily recieve direct donations 
 
 <img src="https://github.com/thearkadia/The_Ark/blob/master/Media/thearkvid.gif" width="50%" height="50%"><img src="https://github.com/thearkadia/The_Ark/blob/master/Media/Democracyappsubmit.gif" width="50%" height="50%">
 
-
- An application for journalists to publish articles on a peer to peer network making it very hard to be censored 
 
 
 
