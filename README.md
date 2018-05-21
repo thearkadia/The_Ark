@@ -15,9 +15,7 @@ The Ark is a portable computer that can be upgraded, modded, or repaired by the 
 # Simplifying Democracy
 One of the goals of The Ark is to simplify the process of participating in a democracy for citizens, journalists, and politicians in a safe and transparent way. 
 
-(images below are mockups of the applications we will develop. No companies, charities, or journalists will be in the boycott/support list by default) 
-
-To simplify participating in a Democracy we will develop open source applications that simplify different key aspects of a democracy.
+To simplify participating in a Democracy we will develop open source applications that simplify different key aspects of a democracy. (images below are mockups of the applications we will develop. No companies, charities, or journalists will be in the boycott/support list by default) 
 
 An open source application that allows citizens to easily track the voting history of their representatives. 
 
