@@ -17,19 +17,21 @@ One of the goals of The Ark is to simplify the process of participating in a dem
 
 (images below are only mockups of the applications. all companies, charities, and names are used for demonstration purposes only) 
 
-An open source application that allows citizens to easily track the voting history of their representatives. 
+* An open source application that allows citizens to easily track the voting history of their representatives. 
 
 <p align="center">
 <img src="https://github.com/thearkadia/The_Ark/blob/master/Media/sketchpngs/Posts.png" width="25%" height="10%"> <img src="https://github.com/thearkadia/The_Ark/blob/master/Media/sketchpngs/Profile%20Posts.png" width="25%" height="10%"> <img src="https://github.com/thearkadia/The_Ark/blob/master/Media/sketchpngs/Profile%20Donations.png" width="25%" height="10%">     </p>
 
-An open source application to simplify the process of boycotting companies by easily seeing what products the company owns or has a stake in and be able to find alternatives to the product\service they are looking to purchase. 
+* An open source application to simplify the process of boycotting companies by easily seeing what products the company owns or has a stake in and be able to find alternatives to the product\service they are looking to purchase. 
 
 <p align="center">
 <img src="https://github.com/thearkadia/The_Ark/blob/master/Media/sketchpngs/Budget.png" width="25%" height="10%">
 <img src="https://github.com/thearkadia/The_Ark/blob/master/Media/sketchpngs/Boycott%20List.png" width="25%" height="10%">
 <img src="https://github.com/thearkadia/The_Ark/blob/master/Media/sketchpngs/Nestle%20Alternative%20Hersheys.png" width="25%" height="10%">     </p>
 
-An application for journalists and charities to easily recieve direct donations from supporters similar to how [Patreon](https://www.patreon.com) works with the option of accepting Cryptocurrencies as well. An application for journalists to publish articles on a peer to peer network making it very hard to be censored and an application to keep track of important dates.
+* An application for journalists and charities to easily recieve direct donations from supporters similar to how [Patreon](https://www.patreon.com) works with the option of accepting Cryptocurrencies as well. 
+* An application for journalists to publish articles on a peer to peer network making it very hard to be censored 
+* An application to keep track of important dates.
 
 
 
