@@ -13,17 +13,26 @@ The Ark is a portable computer that can be upgraded, modded, or repaired by the 
 <img src="https://github.com/thearkadia/The_Ark/blob/master/Media/theark.jpg" width="50%" height="50%"><img src="https://github.com/thearkadia/The_Ark/blob/master/Media/thearkback.JPG" width="50%" height="50%">
 
 # Simplifying Democracy
-One of the goals of The Ark is to simplify the process of participating in a democracy for citizens, journalists, and politicians in a safe and transparent way. To simplify participating in a Democracy we will include open source applications that allow citizens to easily track the voting history of their representative. An application for citizens to simplify the process of boycotting companies they don't want to support by finding what products the company owns or has a stake in and be able to find alternatives to the product\service they are looking to purchase. An application for journalists to publish articles on a peer to peer network making it very hard to be censored and an application for journalists and charities to easily recieve direct donations from supporters similar to how [Patreon](https://www.patreon.com) works with the option of accepting Cryptocurrencies as well. 
+One of the goals of The Ark is to simplify the process of participating in a democracy for citizens, journalists, and politicians in a safe and transparent way. 
 
 (images below are mockups of the applications we will develop. No companies, charities, or journalists will be in the boycott/support list by default) 
 
+To simplify participating in a Democracy we will develop open source applications that simplify different key aspects of a democracy.
+
+An open source application that allows citizens to easily track the voting history of their representatives. 
+
 <p align="center">
 <img src="https://github.com/thearkadia/The_Ark/blob/master/Media/sketchpngs/Posts.png" width="25%" height="10%"> <img src="https://github.com/thearkadia/The_Ark/blob/master/Media/sketchpngs/Profile%20Posts.png" width="25%" height="10%"> <img src="https://github.com/thearkadia/The_Ark/blob/master/Media/sketchpngs/Profile%20Donations.png" width="25%" height="10%">     </p>
+
+An open source application to simplify the process of boycotting companies by easily seeing what products the company owns or has a stake in and be able to find alternatives to the product\service they are looking to purchase. 
 
 <p align="center">
 <img src="https://github.com/thearkadia/The_Ark/blob/master/Media/sketchpngs/Budget.png" width="25%" height="10%">
 <img src="https://github.com/thearkadia/The_Ark/blob/master/Media/sketchpngs/Boycott%20List.png" width="25%" height="10%">
 <img src="https://github.com/thearkadia/The_Ark/blob/master/Media/sketchpngs/Nestle%20Alternative%20Hersheys.png" width="25%" height="10%">     </p>
+
+An application for journalists and charities to easily recieve direct donations from supporters similar to how [Patreon](https://www.patreon.com) works with the option of accepting Cryptocurrencies as well. 
+
 
 <p align="center">
 <img src="https://github.com/thearkadia/The_Ark/blob/master/Media/sketchpngs/Supporting.png" width="25%" height="10%">
@@ -31,8 +40,17 @@ One of the goals of The Ark is to simplify the process of participating in a dem
 <img src="https://github.com/thearkadia/The_Ark/blob/master/Media/sketchpngs/calendar.png" width="25%" height="10%">     </p>
 
 
-
 <img src="https://github.com/thearkadia/The_Ark/blob/master/Media/thearkvid.gif" width="50%" height="50%"><img src="https://github.com/thearkadia/The_Ark/blob/master/Media/Democracyappsubmit.gif" width="50%" height="50%">
+
+
+ An application for journalists to publish articles on a peer to peer network making it very hard to be censored 
+
+
+
+
+
+
+
 
 
 <p align="center">
