@@ -1,3 +1,4 @@
-1) add config.json to ~/.pocket-home/
-2) double click .deb file to install
-3) after installation the program will be in the applications menu in the Other section
+1) make a folder called .pocket-home in your user's directory
+2) add config.json to ~/.pocket-home/
+3) double click .deb file to install
+4) after installation the program will be in the applications menu in the Other section
