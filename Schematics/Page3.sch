@@ -28,15 +28,14 @@ LIBS:opto
 LIBS:atmel
 LIBS:contrib
 LIBS:valves
-LIBS:tfp401a
-LIBS:ddr2_sodimm
-LIBS:voltage_reg
-LIBS:uSD_card
 LIBS:batt_charg
+LIBS:ddr2_sodimm
+LIBS:mounting_point
 LIBS:spdt_switch
 LIBS:test_point
-LIBS:mounting_point
-LIBS:Ark-cache
+LIBS:tfp401a
+LIBS:uSD_card
+LIBS:voltage_reg
 EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268

@@ -1,4 +1,4 @@
-update=Saturday, September 16, 2017 'PMt' 06:50:16 PM
+update=Sunday, April 22, 2018 'PMt' 02:42:51 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -25,6 +25,16 @@ version=1
 NetIExt=net
 [general]
 version=1
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
 [eeschema]
 version=1
 LibDir=
@@ -58,21 +68,11 @@ LibName26=opto
 LibName27=atmel
 LibName28=contrib
 LibName29=valves
-LibName30=/Users/michaelriedl/Documents/Projects/Pi-Compute-PGS/Pi-Library/tfp401a
-LibName31=/Users/michaelriedl/Documents/Projects/Pi-Compute-PGS/Pi-Library/ddr2_sodimm
-LibName32=/Users/michaelriedl/Documents/Projects/Pi-Compute-PGS/Pi-Library/voltage_reg
-LibName33=/Users/michaelriedl/Documents/Projects/Pi-Compute-PGS/Pi-Library/uSD_card
-LibName34=/Users/michaelriedl/Documents/Projects/Pi-Compute-PGS/Pi-Library/batt_charg
-LibName35=/Users/michaelriedl/Documents/Projects/Pi-Compute-PGS/Pi-Library/spdt_switch
-LibName36=/Users/michaelriedl/Documents/Projects/Pi-Compute-PGS/Pi-Library/test_point
-LibName37=/Users/michaelriedl/Documents/Projects/Pi-Compute-PGS/Pi-Library/mounting_point
-[schematic_editor]
-version=1
-PageLayoutDescrFile=
-PlotDirectoryName=
-SubpartIdSeparator=0
-SubpartFirstId=65
-NetFmtName=
-SpiceForceRefPrefix=0
-SpiceUseNetNumbers=0
-LabSize=60
+LibName30=/Users/michaelriedl/Documents/Projects/Hardware/RPi_CM3_Parts/Pi-Library/batt_charg
+LibName31=/Users/michaelriedl/Documents/Projects/Hardware/RPi_CM3_Parts/Pi-Library/ddr2_sodimm
+LibName32=/Users/michaelriedl/Documents/Projects/Hardware/RPi_CM3_Parts/Pi-Library/mounting_point
+LibName33=/Users/michaelriedl/Documents/Projects/Hardware/RPi_CM3_Parts/Pi-Library/spdt_switch
+LibName34=/Users/michaelriedl/Documents/Projects/Hardware/RPi_CM3_Parts/Pi-Library/test_point
+LibName35=/Users/michaelriedl/Documents/Projects/Hardware/RPi_CM3_Parts/Pi-Library/tfp401a
+LibName36=/Users/michaelriedl/Documents/Projects/Hardware/RPi_CM3_Parts/Pi-Library/uSD_card
+LibName37=/Users/michaelriedl/Documents/Projects/Hardware/RPi_CM3_Parts/Pi-Library/voltage_reg

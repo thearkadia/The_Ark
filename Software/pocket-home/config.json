@@ -1,0 +1,77 @@
+{
+  "fullscreen": false,
+  "defaultPage": "Apps",
+  "pages": [
+    {
+      "name": "Apps",
+      "items": [
+        {
+          "name": "Terminal",
+          "icon": "appIcons/terminal.png",
+          "shell": "lxterminal"
+        },
+        {
+          "name": "Calculator",
+          "icon": "/usr/share/icons/PiX/32x32/apps/galculator.png",
+          "shell": "galculator"
+        },
+        {
+          "name": "Browse Web",
+          "icon": "/usr/share/pixmaps/dillo.png",
+          "shell": "dillo"
+        },
+        {
+          "name": "Get Help",
+          "icon": "appIcons/help.png",
+          "shell": "dillo /usr/share/doc/"
+        },
+        {
+          "name": "Write",
+          "icon": "appIcons/texteditor.png",
+          "shell": "leafpad"
+        },
+        {
+          "name": "Browse Files",
+          "icon": "appIcons/filebrowser.png",
+          "shell": "pcmanfm"
+        }
+      ],
+      "cornerButtons": [
+        {
+          "location": "TopLeft",
+          "name": "Battery",
+          "icon": "battery_0.png"
+        },
+        {
+          "location": "TopRight",
+          "name": "WiFi",
+          "icon": "wifiOff.png"
+        },
+        {
+          "location": "BottomLeft",
+          "name": "Power",
+          "icon": "powerIcon.png"
+        },
+        {
+          "location": "BottomRight",
+          "name": "Settings",
+          "icon": "settingsIcon.png"
+        }
+      ]
+    },
+    {
+      "name": "Settings"
+    },
+    {
+      "name": "Power"
+    },
+    {
+      "name": "WiFi"
+    },
+    {
+      "name": "Battery"
+    }
+  ],
+  "timeformat": "24h",
+  "cursor": "notvisible"
+}

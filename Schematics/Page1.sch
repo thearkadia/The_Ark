@@ -28,15 +28,14 @@ LIBS:opto
 LIBS:atmel
 LIBS:contrib
 LIBS:valves
-LIBS:tfp401a
-LIBS:ddr2_sodimm
-LIBS:voltage_reg
-LIBS:uSD_card
 LIBS:batt_charg
+LIBS:ddr2_sodimm
+LIBS:mounting_point
 LIBS:spdt_switch
 LIBS:test_point
-LIBS:mounting_point
-LIBS:Ark-cache
+LIBS:tfp401a
+LIBS:uSD_card
+LIBS:voltage_reg
 EELAYER 25 0
 EELAYER END
 $Descr USLetter 8500 11000 portrait
@@ -567,17 +566,6 @@ Text GLabel 5315 6415 3    39   Input ~ 0
 GND
 Text Notes 4885 6030 0    59   ~ 0
 USB Voltage Supply
-$Comp
-L USB_OTG P2
-U 1 1 5872C4F1
-P 7370 6335
-F 0 "P2" H 7695 6210 50  0000 C CNN
-F 1 "USB_OTG" H 7370 6535 50  0000 C CNN
-F 2 "Pi-Library:USB_Micro-B_10103594-0001LF" V 7320 6235 50  0001 C CNN
-F 3 "" V 7320 6235 50  0000 C CNN
-	1    7370 6335
-	0    1    1    0   
-$EndComp
 Text GLabel 4175 1640 3    39   Input ~ 0
 GND
 Text Notes 7210 6015 0    59   ~ 0
@@ -588,9 +576,9 @@ Text GLabel 6965 6235 0    39   Input ~ 0
 USB_D-
 Text GLabel 6965 6335 0    39   Input ~ 0
 USB_D+
-Text GLabel 6965 6535 0    39   Input ~ 0
+Text GLabel 6965 6435 0    39   Input ~ 0
 GND
-Text GLabel 7470 6815 3    39   Input ~ 0
+Text GLabel 7470 6715 3    39   Input ~ 0
 GND
 Text GLabel 5050 4540 0    39   Input ~ 0
 3V3
@@ -1142,9 +1130,9 @@ Wire Wire Line
 Wire Wire Line
 	6965 6335 7070 6335
 Wire Wire Line
-	6965 6535 7070 6535
+	6965 6435 7070 6435
 Wire Wire Line
-	7470 6815 7470 6735
+	7470 6715 7470 6635
 Wire Wire Line
 	5050 4540 5250 4540
 Wire Wire Line
@@ -1370,4 +1358,15 @@ Wire Wire Line
 	2175 3890 2070 3890
 Wire Wire Line
 	2175 3965 2070 3965
+$Comp
+L USB_A P2
+U 1 1 5ADCEFE8
+P 7370 6335
+F 0 "P2" H 7570 6135 50  0000 C CNN
+F 1 "USB_A" H 7320 6535 50  0000 C CNN
+F 2 "Pi-Library:Wurth_USB_732-11179-1-ND" V 7320 6235 50  0001 C CNN
+F 3 "" V 7320 6235 50  0000 C CNN
+	1    7370 6335
+	0    1    1    0   
+$EndComp
 $EndSCHEMATC
