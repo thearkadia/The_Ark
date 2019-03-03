@@ -17,7 +17,7 @@ One of the goals of The Ark is to simplify the process of participating in a dem
 
 (images below are only mockups of the applications. all companies, charities, and names are used for demonstration purposes only) 
 
-* An open source application that allows citizens to easily track the voting history of their representatives. 
+* An open source application that allows citizens to keep track of the voting history of their representatives. 
 
 <p align="center">
 <img src="https://github.com/thearkadia/The_Ark/blob/master/Media/PNGS/Posts%403x.png" width="25%" height="10%"> <img src="https://github.com/thearkadia/The_Ark/blob/master/Media/PNGS/Profile%20Posts%20–%201%403x.png" width="25%" height="10%"> <img src="https://github.com/thearkadia/The_Ark/blob/master/Media/PNGS/Profile%20Donations%403x.png" width="25%" height="10%">     </p>
