@@ -29,8 +29,8 @@ One of the goals of The Ark is to simplify the process of participating in a dem
 <img src="https://github.com/thearkadia/The_Ark/blob/master/Media/PNGS/Boycott%20List%403x.png" width="25%" height="10%">
 <img src="https://github.com/thearkadia/The_Ark/blob/master/Media/PNGS/Nestle%20Alternatives%403x.png" width="25%" height="10%">     </p>
 
-* An application for journalists and charities to easily recieve direct donations from supporters similar to how [Patreon](https://www.patreon.com) works with the option of accepting Cryptocurrencies. 
-* An application for journalists to publish articles on a peer to peer network making it very hard to be censored 
+* An application for journalists and charities to easily recieve reccuring donations from supporters. 
+* An application for journalists to publish articles on a peer to peer network making it very hard to be censored. 
 * An application to keep track of important dates.
 
 
