@@ -65,3 +65,6 @@ email us</a> </p>
 
 <p align="center"> What better place than here? What better time than now? </center>
 
+<p align="center">
+  <img src="https://github.com/thearkadia/The_Ark/blob/master/Media/arkanim.gif" width="100%" height="100%"/>
+</p>
