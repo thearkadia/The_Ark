@@ -54,7 +54,7 @@ email us</a> </p>
 
 <p align="center"> <a href="https://instagram.com/thearkadia "> follow our art </center> </p>
 
-<p align="center"> <a href="https://thearkadia.com/pages/newsletter"> Subscribe to Newsletter</center> </p></a>
+<p align="center"> <a href="https://www.crowdsupply.com/the-arkadia/the-ark-dev-kit"> Subscribe to Newsletter</center> </p></a>
 <p>
       </p>
     
