@@ -55,7 +55,7 @@ One of the goals of The Ark is to simplify the process of participating in a dem
   <a href="mailto:thearkadia@protonmail.com"></center>
 Email Us</a> </p>
 
-<p align="center"> <a href="https://instagram.com/thearkadia "> Follow our art </center> </p>
+<p align="center"> <a href="https://instagram.com/thearkadia "> Follow Our Art </center> </p>
 
 <p align="center"> <a href="https://www.crowdsupply.com/the-arkadia/the-ark-dev-kit"> Pre-Order Dev Kit</center> </p></a>
 <p>
