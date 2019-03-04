@@ -53,7 +53,7 @@ One of the goals of The Ark is to simplify the process of participating in a dem
 </p>
  <p align="center">
   <a href="mailto:thearkadia@protonmail.com"></center>
-email us</a> </p>
+Email Us</a> </p>
 
 <p align="center"> <a href="https://instagram.com/thearkadia "> Follow our art </center> </p>
 
