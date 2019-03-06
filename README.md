@@ -39,7 +39,7 @@ One of the goals of the Ark is to simplify the process of participating in a dem
 
 
 <p align="center">
-  <img src="https://github.com/thearkadia/The_Ark/blob/master/Media/arkanim.gif" width="60%" height="60%"/>
+  <img src="https://github.com/thearkadia/The_Ark/blob/master/Media/arkanim-whitebg.gif" width="60%" height="60%"/>
 </p>
 
 
