@@ -30,14 +30,10 @@ One of the goals of the Ark is to simplify the process of participating in a dem
 
 
 * An application for journalists and charities to easily recieve reccuring donations from supporters. 
-
-
-
-
 <p align="center">
 
-      <img src="https://github.com/thearkadia/The_Ark/blob/master/Media/PNGS/News%403x.png" width="25%" height="10%">
-    </p>
+<img src="https://github.com/thearkadia/The_Ark/blob/master/Media/PNGS/News%403x.png" width="25%" height="10%">
+</p>
 
 
 
