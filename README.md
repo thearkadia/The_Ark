@@ -17,23 +17,28 @@ One of the goals of the Ark is to simplify the process of participating in a dem
 <p align="center">
 <img src="https://github.com/thearkadia/The_Ark/blob/master/Media/PNGS/Posts%403x.png" width="25%" height="10%"> <img src="https://github.com/thearkadia/The_Ark/blob/master/Media/PNGS/Profile%20Posts%20–%201%403x.png" width="25%" height="10%"> <img src="https://github.com/thearkadia/The_Ark/blob/master/Media/PNGS/Profile%20Donations%403x.png" width="25%" height="10%">     </p>
 
+# Simplifying Budgets, Boycotts, and Taxes
+
+* An application for journalists and charities to easily recieve reccuring donations from supporters. 
+
 * An open source application to simplify the process of boycotting companies by easily seeing what products the company owns or has a stake in and be able to find alternatives to the product\service they are looking to purchase. 
 
 <p align="center">
 <img src="https://github.com/thearkadia/The_Ark/blob/master/Media/PNGS/Budget%403x.png" width="25%" height="10%">
+<img src="https://github.com/thearkadia/The_Ark/blob/master/Media/PNGS/Supporting%403x.png" width="25%" height="10%">
 <img src="https://github.com/thearkadia/The_Ark/blob/master/Media/PNGS/Boycott%20List%403x.png" width="25%" height="10%">
 <img src="https://github.com/thearkadia/The_Ark/blob/master/Media/PNGS/Nestle%20Alternatives%20Hershey%20Extended%20–%201%403x.png" width="25%" height="10%">     </p>
 
+
 * An application for journalists and charities to easily recieve reccuring donations from supporters. 
-* An application for journalists to publish articles on a peer to peer network and accept micro transactions for content. 
-* An application to keep track of important dates.
+
 
 
 
 <p align="center">
-<img src="https://github.com/thearkadia/The_Ark/blob/master/Media/PNGS/Supporting%403x.png" width="25%" height="10%">
+
       <img src="https://github.com/thearkadia/The_Ark/blob/master/Media/PNGS/News%403x.png" width="25%" height="10%">
-<img src="https://github.com/thearkadia/The_Ark/blob/master/Media/PNGS/calendar%403x.png" width="25%" height="10%">     </p>
+    </p>
 
 
 
