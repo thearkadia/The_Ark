@@ -54,8 +54,7 @@ Email Us</a> </p>
 <p align="center"> <a href="https://www.crowdsupply.com/the-arkadia/the-ark-dev-kit"> Crowdsupply Campaign </center> </p></a>
 <p>
  <p align="center">
-  Follow us on <a href="https://instagram.com/thearkadia "> Instagram </p> or
-   <a href="https://instagram.com/thearkadia "> Twitter </p>
+  Follow us on <a href="https://instagram.com/thearkadia">Instagram </a> or <a href="http://www.twitter.com/thearkadia_">Twitter</a></p>
     
 <p align="center">  It has to start somewhere. It has to start sometime.
       </center> 
