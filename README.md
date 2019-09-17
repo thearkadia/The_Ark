@@ -51,11 +51,11 @@ One of the goals of the Ark is to simplify the process of participating in a dem
 Email Us</a> </p>
 
 
-<p align="center"> <a href="https://www.crowdsupply.com/the-arkadia/the-ark-dev-kit"> Pre-Order Dev Kit</center> </p></a>
+<p align="center"> <a href="https://www.crowdsupply.com/the-arkadia/the-ark-dev-kit"> Crowdsupply Campaign </center> </p></a>
 <p>
  <p align="center">
-  follow us on <a href="https://instagram.com/thearkadia "> Instagram 
-  or <a href="https://instagram.com/thearkadia "> Twitter </p>
+  Follow us on <a href="https://instagram.com/thearkadia "> Instagram </p> or
+   <a href="https://instagram.com/thearkadia "> Twitter </p>
     
 <p align="center">  It has to start somewhere. It has to start sometime.
       </center> 
