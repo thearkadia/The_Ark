@@ -44,7 +44,7 @@ One of the goals of the Ark is to simplify the process of participating in a dem
 
 
 <p align="center">
-  <img src="https://github.com/thearkadia/The_Ark/blob/master/Media/vicproject.png" width="100%" height="100%"/>
+  <img src="https://github.com/thearkadia/The_Ark/blob/master/Media/ark-heart.png" width="100%" height="100%"/>
 </p>
  <p align="center">
   <a href="mailto:thearkadia@protonmail.com"></center>
