@@ -53,16 +53,13 @@ Email Us</a> </p>
 
 <p align="center"> <a href="https://www.crowdsupply.com/the-arkadia/the-ark-dev-kit"> Pre-Order Dev Kit</center> </p></a>
 <p>
- follow us on <a href="https://instagram.com/thearkadia "> Instagram 
+ <p align="center">
+  follow us on <a href="https://instagram.com/thearkadia "> Instagram 
   or <a href="https://instagram.com/thearkadia "> Twitter </p>
-
-
-      </p>
     
 <p align="center">  It has to start somewhere. It has to start sometime.
       </center> 
-
-<p> </p>
+ </p>
 
 <p align="center"> What better place than here? What better time than now? </center>
 
