@@ -17,7 +17,7 @@ One of the goals of the Ark is to simplify the process of participating in a dem
 * An open source application that allows citizens to keep track of the voting history of their representatives. 
 
 <p align="center">
-<img src="https://github.com/thearkadia/The_Ark/blob/master/Media/PNGS/Posts%403x.png" width="25%" height="10%"> <img src="https://github.com/thearkadia/The_Ark/blob/master/Media/PNGS/Profile%20Posts%20–%201%403x.png" width="25%" height="10%"> <img src="https://github.com/thearkadia/The_Ark/blob/master/Media/PNGS/Profile%20Donations%403x.png" width="25%" height="10%">     </p>
+<img src="https://github.com/thearkadia/The_Ark/blob/master/Media/PNGS/Posts%403x.png" width="33%" height="10%"> <img src="https://github.com/thearkadia/The_Ark/blob/master/Media/PNGS/Profile%20Posts%20–%201%403x.png" width="33%" height="10%"> <img src="https://github.com/thearkadia/The_Ark/blob/master/Media/PNGS/Profile%20Donations%403x.png" width="33%" height="10%">     </p>
 
 # Simplifying Budgets, Boycotts, and Taxes
 
@@ -26,9 +26,9 @@ One of the goals of the Ark is to simplify the process of participating in a dem
 * An application to simplify the process of boycotting companies by displaying what products and companies a conglomerate owns or has a stake in. With a search feature to find alternatives to the product\service they are looking to purchase. 
 
 <p align="center">
-<img src="https://github.com/thearkadia/The_Ark/blob/master/Media/PNGS/Budget%403x.png" width="25%" height="10%">
-<img src="https://github.com/thearkadia/The_Ark/blob/master/Media/PNGS/Boycott%20List%403x.png" width="25%" height="10%">    
-<img src="https://github.com/thearkadia/The_Ark/blob/master/Media/PNGS/Supporting%403x.png" width="25%" height="10%">
+<img src="https://github.com/thearkadia/The_Ark/blob/master/Media/PNGS/Budget%403x.png" width="33%" height="10%">
+<img src="https://github.com/thearkadia/The_Ark/blob/master/Media/PNGS/Boycott%20List%403x.png" width="33%" height="10%">    
+<img src="https://github.com/thearkadia/The_Ark/blob/master/Media/PNGS/Supporting%403x.png" width="33%" height="10%">
 </p>
 
 
