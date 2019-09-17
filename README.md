@@ -53,7 +53,7 @@ Email Us</a> </p>
 
 <p align="center"> <a href="https://www.crowdsupply.com/the-arkadia/the-ark-dev-kit"> Pre-Order Dev Kit</center> </p></a>
 <p>
- follow us on <a href="https://instagram.com/thearkadia "> Instagram </p>
+ follow us on <a href="https://instagram.com/thearkadia "> Instagram 
   or <a href="https://instagram.com/thearkadia "> Twitter </p>
 
 
