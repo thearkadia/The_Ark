@@ -50,10 +50,13 @@ One of the goals of the Ark is to simplify the process of participating in a dem
   <a href="mailto:thearkadia@protonmail.com"></center>
 Email Us</a> </p>
 
-<p align="center"> <a href="https://instagram.com/thearkadia "> Follow Our Art </center> </p>
 
 <p align="center"> <a href="https://www.crowdsupply.com/the-arkadia/the-ark-dev-kit"> Pre-Order Dev Kit</center> </p></a>
 <p>
+ follow us on <a href="https://instagram.com/thearkadia "> Instagram </p>
+  or <a href="https://instagram.com/thearkadia "> Twitter </p>
+
+
       </p>
     
 <p align="center">  It has to start somewhere. It has to start sometime.
