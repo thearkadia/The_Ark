@@ -47,14 +47,14 @@ One of the goals of the Ark is to simplify the process of participating in a dem
   <img src="https://github.com/thearkadia/The_Ark/blob/master/Media/ark-heart.png" width="50%" height="100%"/>
 </p>
  <p align="center">
-  <a href="mailto:thearkadia@protonmail.com"></center>
+  <a href="mailto:nixoye@protonmail.com"></center>
 Email Us</a> </p>
 
 
 <p align="center"> <a href="https://www.crowdsupply.com/the-arkadia/the-ark-dev-kit"> Crowdsupply Campaign </center> </p></a>
 <p>
  <p align="center">
-  Follow us on <a href="https://instagram.com/thearkadia">Instagram </a> or <a href="http://www.twitter.com/thearkadia_">Twitter</a></p>
+  Follow us on <a href="https://instagram.com/thearkadia">Instagram </a> or <a href="http://www.twitter.com/nixoye">Twitter</a></p>
     
 <p align="center">  It has to start somewhere. It has to start sometime.
       </center> 
